@@ -1,0 +1,32 @@
+_repo: The-Bull-Run-RoutScenes-Attending-the-First-Clash-of-Volunteers-in-the-Civil-War_32951
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clement, E. H. (Edward Henry)
+    alias: Clement, Edward Henry
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '36124'
+    url: http://www.gutenberg.org/2009/agents/36124
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 1st (1861-1864)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+- !lcsh 'Bull Run, 1st Battle of, Va., 1861'
+title: 'The Bull-Run Rout
+
+  Scenes Attending the First Clash of Volunteers in the Civil War'
+url: http://www.gutenberg.org/ebooks/32951
